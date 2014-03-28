@@ -5,11 +5,16 @@
 class InstrumentManager {
 	
 	// holds the collection of instruments used in jomming
-	private StkInstrument instruments[];
+	StkInstrument instruments[];
 
 	// add an instrument to the list of instruments
 	function void addInstrument(StkInstrument inst) {
 
 		//this.instruments []= inst;
 	}
+}
+
+// keep the thread alive
+while(true) {
+	1::ms => now;
 }
