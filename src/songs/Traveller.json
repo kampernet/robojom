@@ -1,0 +1,26 @@
+{
+	"name": "Traveller",
+	"sections": [{
+		"name": "intro",
+		"bars": 4,
+		"silent": true
+	}, {
+		"name": "section a",
+		"bars": 8,
+		"key": "E",
+		"scale": "Phrygian"
+	}, {
+		"name": "section b",
+		"bars": 4,
+		"key": "C",
+		"scale": "Major"
+	}],
+	"arrangement": [
+		"intro", 
+		"section a", 
+		"section b", 
+		"intro", 
+		"section a", 
+		"section b"
+	]
+}
